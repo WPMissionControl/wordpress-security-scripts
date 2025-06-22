@@ -53,6 +53,7 @@ Located in `monitor/`:
 bash scan/scan-recent-modified-files.sh /var/www/html/
 wp option get siteurl
 bash harden/fix-permissions.sh /var/www/html/
+```
 
 ---
 
